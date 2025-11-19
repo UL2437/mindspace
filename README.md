@@ -54,7 +54,7 @@ EV3 （主线） Building...
 
 前台的两位女老师接待我们，简要说明来意后，她们表示和那家机构并无任何关系，在加上我的确认，~~可以确信奶奶的49元彻底凉了~~，我们刚准备遗憾离场。
 
-![遗憾立场]（https://cdn.luogu.com.cn/upload/image_hosting/wi279o1x.png）
+![遗憾离场](https://cdn.luogu.com.cn/upload/image_hosting/wi279o1x.png)
 
 这个时候，改变一切的那个人出现了，王老师。
 
